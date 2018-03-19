@@ -25,10 +25,13 @@ Source Tager, I. B., Weiss, S. T., Rosner, B., and Speizer, F. E. (1979). Effect
     
     * Linear Regression Model  
     ![regression](images/regression.PNG)
+    
     * Lasso Model
     ![lasso](images/lasso.PNG)
+    
     * Ridge Model
     ![ridge](images/ridge.PNG)
+    
     * ElasticNet Model
     ![Elastic_net](images/Elastic_net.PNG)
 
