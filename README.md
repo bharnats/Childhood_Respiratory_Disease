@@ -22,9 +22,13 @@ Source Tager, I. B., Weiss, S. T., Rosner, B., and Speizer, F. E. (1979). Effect
 * Compared the performance for each of the following models: `LinearRegression`, `Lasso`, `Ridge`, and `ElasticNet`.
 
     * For each of the models, computed the MSE and R2 score for the test data.
-    ** Linear Regression Model  ![regression](images/regression.PNG)
+    * Linear Regression Model  
+    ![regression](images/regression.PNG)
+    * Lasso Model
     ![lasso](images/lasso.PNG)
+    * Ridge Model
     ![ridge](images/ridge.PNG)
+    * ElasticNet Model
     ![Elastic_net](images/Elastic_net.PNG)
 
 * Also, Plotted the Residuals for the Training and Testing data.
